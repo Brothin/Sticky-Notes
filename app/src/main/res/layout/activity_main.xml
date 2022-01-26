@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:background="@color/back_color"
         android:gravity="start|top"
-        android:hint="Enter your Note"
+        android:hint="Enter Your Note"
         android:inputType="textImeMultiLine"
         android:textColor="@color/white"
         android:textColorHint="#8E8C8C" />
